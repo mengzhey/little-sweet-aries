@@ -42,7 +42,6 @@ body {
   }
   
   .icon{
-    /* padding-right:900px; */
     height: 75%;
   
   }
@@ -105,7 +104,6 @@ body {
   }
   
   #section-title-1, #section-title-2, #section-title-3 {
-    /* margin-left: 20px; */
     font-size: 20px;
 
     padding-bottom: 30px;
@@ -183,7 +181,6 @@ body {
       font-size: 18px;
       font-weight: 550;
       border-radius: 20px;
-      /* box-shadow: 0 5px 14px  rgba(171, 65, 241, 0.24); */
     }
   
   
@@ -281,7 +278,6 @@ body {
   
       padding-top: 10px;
       padding-bottom: 60px;
-      /* padding-left: 50px; */
     }
   
 
@@ -304,7 +300,6 @@ body {
     text-align: center;
   }
   
-  /* This changes all the animations globally */
   :root {
     --animate-duration: 800ms;
     --animate-delay: 0.9s;
