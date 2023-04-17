@@ -164,7 +164,7 @@ body {
     }
   
     .s-1{
-      width: 80%;
+      width: 100%;
       border-color: #ebdcec;
       border-style: solid;
       border-radius: 15px;
@@ -264,6 +264,7 @@ body {
 
       margin-top: 50px;
       padding-bottom: 30px;
+
     }
 
 
